@@ -91,4 +91,4 @@ async def warn(ctx,member : discord.Member, warnType, *,msg):
     ajouter_sanction(member.id,"warn",msg,ctx.message.author.id)
     await ctx.send("Sanction envoyée !")
 
-client.run("ODg0NTY2ODIxMjAwNjA5Mjgw.YTaXDA.YbgolcqahSjUJRZQTe8Oo93ADqE")
+client.run("VOTRE TOKEN")
